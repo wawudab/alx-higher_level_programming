@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import my_pystr
+import real_print
